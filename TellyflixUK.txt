@@ -1,0 +1,602 @@
+#EXTINF:-1 tvg-id="" tvg-name="##########   United Kingdom   ##########" tvg-logo="" group-title="United Kingdom",##########   United Kingdom   ##########
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/2524
+#EXTINF:-1 tvg-id="3e UK" tvg-name="Virgin two HD UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-two-uk.png?raw=true" group-title="United Kingdom",Virgin two HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1790
+#EXTINF:-1 tvg-id="4Music UK" tvg-name="4Music UK" tvg-logo="http://tugapt.com/picons/4musicuk.png" group-title="United Kingdom",4Music UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1936
+#EXTINF:-1 tvg-id="4seven UK" tvg-name="4Seven UK" tvg-logo="http://tugapt.com/picons/4sevenuk.png" group-title="United Kingdom",4Seven UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1937
+#EXTINF:-1 tvg-id="5STAR UK" tvg-name="5Star UK" tvg-logo="http://tugapt.com/picons/5staruk.png" group-title="United Kingdom",5Star UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1963
+#EXTINF:-1 tvg-id="5USA UK" tvg-name="5USA UK" tvg-logo="http://tugapt.com/picons/5usauk.png" group-title="United Kingdom",5USA UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1964
+#EXTINF:-1 tvg-id="AMC from BT UK" tvg-name="AMC From BT UK" tvg-logo="http://tugapt.com/picons/amcfrombtuk.png" group-title="United Kingdom",AMC From BT UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1892
+#EXTINF:-1 tvg-id="at the races UK" tvg-name="S Sports Racing FHD UK" tvg-logo="http://tugapt.com/picons/attheracesuk.png" group-title="United Kingdom",S Sports Racing FHD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1801
+#EXTINF:-1 tvg-id="Alibi UK" tvg-name="Alibi UK" tvg-logo="http://tugapt.com/picons/alibiuk.png" group-title="United Kingdom",Alibi UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1916
+#EXTINF:-1 tvg-id="Animal Planet UK" tvg-name="Animal Planet +1 UK" tvg-logo="http://tugapt.com/picons/animalplanetuk.png" group-title="United Kingdom",Animal Planet +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1878
+#EXTINF:-1 tvg-id="Animal Planet UK" tvg-name="Animal Planet UK" tvg-logo="http://tugapt.com/picons/animalplanetuk.png" group-title="United Kingdom",Animal Planet UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1879
+#EXTINF:-1 tvg-id="BBC Four UK" tvg-name="BBC Four HD UK" tvg-logo="http://tugapt.com/picons/bbcfourhduk.png" group-title="United Kingdom",BBC Four HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1990
+#EXTINF:-1 tvg-id="BBC Four UK" tvg-name="BBC Four UK" tvg-logo="http://tugapt.com/picons/bbcfouruk.png" group-title="United Kingdom",BBC Four UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1989
+#EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News HD UK" tvg-logo="http://tugapt.com/picons/bbcnewshduk.png" group-title="United Kingdom",BBC News HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1777
+#EXTINF:-1 tvg-id="" tvg-name="TalkTV UK" tvg-logo="" group-title="United Kingdom",TalkTV UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/105929
+#EXTINF:-1 tvg-id="BBC One CI UK" tvg-name="BBC One Channel Islands UK" tvg-logo="http://tugapt.com/picons/bbconechannelislandsuk.png" group-title="United Kingdom",BBC One Channel Islands UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1776
+#EXTINF:-1 tvg-id="BBC One HD UK" tvg-name="BBC One HD UK" tvg-logo="http://tugapt.com/picons/bbconehduk.png" group-title="United Kingdom",BBC One HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1998
+#EXTINF:-1 tvg-id="BBC One NI HD UK" tvg-name="BBC One Northern Ireland UK" tvg-logo="http://tugapt.com/picons/bbconenorthernirelanduk.png" group-title="United Kingdom",BBC One Northern Ireland UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/2000
+#EXTINF:-1 tvg-id="BBC One Oxford UK" tvg-name="BBC One Oxford UK" tvg-logo="http://tugapt.com/picons/bbconeoxforduk.png" group-title="United Kingdom",BBC One Oxford UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1775
+#EXTINF:-1 tvg-id="BBC One Scot UK" tvg-name="BBC One Scotland UK" tvg-logo="http://tugapt.com/picons/bbconescotlanduk.png" group-title="United Kingdom",BBC One Scotland UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1786
+#EXTINF:-1 tvg-id="BBC One HD UK" tvg-name="BBC One UK" tvg-logo="http://tugapt.com/picons/bbconeuk.png" group-title="United Kingdom",BBC One UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1997
+#EXTINF:-1 tvg-id="BBC One Wales UK" tvg-name="BBC One Wales UK" tvg-logo="http://tugapt.com/picons/bbconewalesuk.png" group-title="United Kingdom",BBC One Wales UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/2002
+#EXTINF:-1 tvg-id="BBC One Yorks UK" tvg-name="BBC One Yorks UK" tvg-logo="http://tugapt.com/picons/bbconeyorksuk.png" group-title="United Kingdom",BBC One Yorks UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1774
+#EXTINF:-1 tvg-id="BBC Parliament UK" tvg-name="BBC Parliament UK" tvg-logo="http://tugapt.com/picons/bbcparliamentuk.png" group-title="United Kingdom",BBC Parliament UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/2003
+#EXTINF:-1 tvg-id="BBC Two UK" tvg-name="BBC Two HD UK" tvg-logo="http://tugapt.com/picons/bbctwohduk.png" group-title="United Kingdom",BBC Two HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1995
+#EXTINF:-1 tvg-id="BBC Two Scotland UK" tvg-name="BBC Two Scotland UK" tvg-logo="http://tugapt.com/picons/bbctwoscotlanduk.png" group-title="United Kingdom",BBC Two Scotland UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/2004
+#EXTINF:-1 tvg-id="BBC Two UK" tvg-name="BBC Two UK" tvg-logo="http://tugapt.com/picons/bbctwouk.png" group-title="United Kingdom",BBC Two UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1994
+#EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-logo="http://tugapt.com/picons/bbcworldnewsuk.png" group-title="United Kingdom",BBC World News UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/2006
+#EXTINF:-1 tvg-id="BET UK" tvg-name="BET UK" tvg-logo="http://tugapt.com/picons/betuk.png" group-title="United Kingdom",BET UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1961
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="BT Sport 1 HD UK" tvg-logo="http://tugapt.com/picons/btsport1hduk.png" group-title="United Kingdom",BT Sport 1 HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/370
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="BT Sport 1 UK" tvg-logo="http://tugapt.com/picons/btsport1uk.png" group-title="United Kingdom",BT Sport 1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/369
+#EXTINF:-1 tvg-id="BT Sport 2 UK" tvg-name="BT Sport 2 HD UK" tvg-logo="http://tugapt.com/picons/btsport2hduk.png" group-title="United Kingdom",BT Sport 2 HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/368
+#EXTINF:-1 tvg-id="BT Sport 2 UK" tvg-name="BT Sport 2 UK" tvg-logo="http://tugapt.com/picons/btsport2uk.png" group-title="United Kingdom",BT Sport 2 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/367
+#EXTINF:-1 tvg-id="BT Sport 3 UK" tvg-name="BT Sport 3 HD UK" tvg-logo="http://tugapt.com/picons/btsport3hduk.png" group-title="United Kingdom",BT Sport 3 HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/366
+#EXTINF:-1 tvg-id="BT Sport 3 UK" tvg-name="BT Sport 3 UK" tvg-logo="http://tugapt.com/picons/btsport3uk.png" group-title="United Kingdom",BT Sport 3 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/365
+#EXTINF:-1 tvg-id="BT Sport ESPN UK" tvg-name="BT Sport ESPN HD UK" tvg-logo="http://tugapt.com/picons/btsportespnhduk.png" group-title="United Kingdom",BT Sport ESPN HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1743
+#EXTINF:-1 tvg-id="BT Sport ESPN UK" tvg-name="BT Sport ESPN UK" tvg-logo="http://tugapt.com/picons/btsportespnuk.png" group-title="United Kingdom",BT Sport ESPN UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1819
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 5 UK" tvg-logo="http://tugapt.com/picons/btsportextra1uk.png" group-title="United Kingdom",BT Sport 5 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1818
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 6 UK" tvg-logo="http://tugapt.com/picons/btsportextra2uk.png" group-title="United Kingdom",BT Sport 6 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1817
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 7 UK" tvg-logo="http://tugapt.com/picons/btsportextra3uk.png" group-title="United Kingdom",BT Sport 7 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1816
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 8 UK" tvg-logo="http://tugapt.com/picons/btsportextra4uk.png" group-title="United Kingdom",BT Sport 8 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1815
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 9 UK" tvg-logo="http://tugapt.com/picons/btsportextra5uk.png" group-title="United Kingdom",BT Sport 9 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1814
+#EXTINF:-1 tvg-id="Baby TV UK" tvg-name="Baby TV UK" tvg-logo="http://tugapt.com/picons/babytvuk.png" group-title="United Kingdom",Baby TV UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1852
+#EXTINF:-1 tvg-id="Blaze UK" tvg-name="Blaze UK" tvg-logo="http://tugapt.com/picons/blazeuk.png" group-title="United Kingdom",Blaze UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1787
+#EXTINF:-1 tvg-id="Bloomberg TV UK" tvg-name="Bloomberg TV UK" tvg-logo="http://tugapt.com/picons/bloombergtvuk.png" group-title="United Kingdom",Bloomberg TV UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1770
+#EXTINF:-1 tvg-id="Boomerang UK" tvg-name="Boomerang +1 UK" tvg-logo="http://tugapt.com/picons/boomerangplus1uk.png" group-title="United Kingdom",Boomerang +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1769
+#EXTINF:-1 tvg-id="Boomerang UK" tvg-name="Boomerang UK" tvg-logo="http://tugapt.com/picons/boomeranguk.png" group-title="United Kingdom",Boomerang UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1862
+#EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-logo="http://tugapt.com/picons/boxhitsuk.png" group-title="United Kingdom",Box Hits UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1768
+#EXTINF:-1 tvg-id="CBBC HD UK" tvg-name="CBBC HD UK" tvg-logo="http://tugapt.com/picons/cbbchduk.png" group-title="United Kingdom",CBBC HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1993
+#EXTINF:-1 tvg-id="CBBC HD UK" tvg-name="CBBC UK" tvg-logo="http://tugapt.com/picons/cbbcuk.png" group-title="United Kingdom",CBBC UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1991
+#EXTINF:-1 tvg-id="CBS Action UK" tvg-name="CBS Justice UK" tvg-logo="http://tugapt.com/picons/cbsactionuk.png" group-title="United Kingdom",CBS Justice UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1909
+#EXTINF:-1 tvg-id="CBS Drama UK" tvg-name="CBS Drama UK" tvg-logo="http://tugapt.com/picons/cbsdramauk.png" group-title="United Kingdom",CBS Drama UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1908
+#EXTINF:-1 tvg-id="CBS Reality UK" tvg-name="CBS Reality UK" tvg-logo="http://tugapt.com/picons/cbsrealityuk.png" group-title="United Kingdom",CBS Reality UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1910
+#EXTINF:-1 tvg-id="CBeebies UK" tvg-name="CBeebies HD UK" tvg-logo="http://tugapt.com/picons/cbeebieshduk.png" group-title="United Kingdom",CBeebies HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1741
+#EXTINF:-1 tvg-id="CITV UK" tvg-name="CITV UK" tvg-logo="http://tugapt.com/picons/citvuk.png" group-title="United Kingdom",CITV UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1740
+#EXTINF:-1 tvg-id="CNN UK" tvg-name="CNN UK" tvg-logo="http://tugapt.com/picons/cnnuk.png" group-title="United Kingdom",CNN UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1764
+#EXTINF:-1 tvg-id="Cartoon Network UK" tvg-name="Cartoon Network UK" tvg-logo="http://tugapt.com/picons/cartoonnetworkuk.png" group-title="United Kingdom",Cartoon Network UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1857
+#EXTINF:-1 tvg-id="Cartoonito UK" tvg-name="Cartoonito UK" tvg-logo="http://tugapt.com/picons/cartoonitouk.png" group-title="United Kingdom",Cartoonito UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1865
+#EXTINF:-1 tvg-id="Challenge UK" tvg-name="Challenge +1 UK" tvg-logo="http://tugapt.com/picons/challengeuk.png" group-title="United Kingdom",Challenge +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1944
+#EXTINF:-1 tvg-id="Challenge UK" tvg-name="Challenge UK" tvg-logo="http://tugapt.com/picons/challengeuk.png" group-title="United Kingdom",Challenge UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1782
+#EXTINF:-1 tvg-id="Channel 4 UK" tvg-name="Channel 4 HD UK" tvg-logo="http://tugapt.com/picons/channel4hduk.png" group-title="United Kingdom",Channel 4 HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1970
+#EXTINF:-1 tvg-id="Channel 4 UK" tvg-name="Channel 4 UK" tvg-logo="http://tugapt.com/picons/channel4uk.png" group-title="United Kingdom",Channel 4 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1972
+#EXTINF:-1 tvg-id="Channel 5 UK" tvg-name="Channel 5 HD UK" tvg-logo="http://tugapt.com/picons/channel5hduk.png" group-title="United Kingdom",Channel 5 HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1967
+#EXTINF:-1 tvg-id="Channel 5 UK" tvg-name="Channel 5 UK" tvg-logo="http://tugapt.com/picons/channel5uk.png" group-title="United Kingdom",Channel 5 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1968
+#EXTINF:-1 tvg-id="Chart Show TV UK" tvg-name="Trace Urban UK" tvg-logo="http://tugapt.com/picons/chartshowtvuk.png" group-title="United Kingdom",Trace Urban UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1765
+#EXTINF:-1 tvg-id="Comedy Central Extra UK" tvg-name="Comedy Central Extra +1 UK" tvg-logo="http://tugapt.com/picons/comedycentralextrauk.png" group-title="United Kingdom",Comedy Central Extra +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1894
+#EXTINF:-1 tvg-id="Comedy Central Extra UK" tvg-name="Comedy Central Extra UK" tvg-logo="http://tugapt.com/picons/comedycentralextrauk.png" group-title="United Kingdom",Comedy Central Extra UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1895
+#EXTINF:-1 tvg-id="Comedy Central UK" tvg-name="Comedy Central UK" tvg-logo="http://tugapt.com/picons/comedycentraluk.png" group-title="United Kingdom",Comedy Central UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1896
+#EXTINF:-1 tvg-id="CrimeplusInvestigation UK" tvg-name="Crime+Investigation +1 UK" tvg-logo="http://tugapt.com/picons/crimeplusinvestigationuk.png" group-title="United Kingdom",Crime+Investigation +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1880
+#EXTINF:-1 tvg-id="DMAX UK" tvg-name="DMAX +1 UK" tvg-logo="http://tugapt.com/picons/dmaxuk.png" group-title="United Kingdom",DMAX +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1876
+#EXTINF:-1 tvg-id="DMAX UK" tvg-name="DMAX UK" tvg-logo="http://tugapt.com/picons/dmaxuk.png" group-title="United Kingdom",DMAX UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1877
+#EXTINF:-1 tvg-id="Dave UK" tvg-name="Dave UK" tvg-logo="http://tugapt.com/picons/daveuk.png" group-title="United Kingdom",Dave UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1911
+#EXTINF:-1 tvg-id="Dave ja vu UK" tvg-name="Dave ja vu UK" tvg-logo="http://tugapt.com/picons/davejavuuk.png" group-title="United Kingdom",Dave ja vu UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1788
+#EXTINF:-1 tvg-id="Discovery UK" tvg-name="Discovery Channel UK" tvg-logo="http://tugapt.com/picons/discoverychanneluk.png" group-title="United Kingdom",Discovery Channel UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1886
+#EXTINF:-1 tvg-id="Discovery History UK" tvg-name="Discovery History +1 UK" tvg-logo="http://tugapt.com/picons/discoveryhistoryuk.png" group-title="United Kingdom",Discovery History +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1872
+#EXTINF:-1 tvg-id="Discovery History UK" tvg-name="Discovery History UK" tvg-logo="http://tugapt.com/picons/discoveryhistoryuk.png" group-title="United Kingdom",Discovery History UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1873
+#EXTINF:-1 tvg-id="Discovery Science UK" tvg-name="Discovery Science +1 UK" tvg-logo="http://tugapt.com/picons/discoveryscienceuk.png" group-title="United Kingdom",Discovery Science +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1874
+#EXTINF:-1 tvg-id="Discovery Science UK" tvg-name="Discovery Science UK" tvg-logo="http://tugapt.com/picons/discoveryscienceuk.png" group-title="United Kingdom",Discovery Science UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1875
+#EXTINF:-1 tvg-id="Discovery Turbo UK" tvg-name="Discovery Turbo UK" tvg-logo="http://tugapt.com/picons/discoveryturbouk.png" group-title="United Kingdom",Discovery Turbo UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1884
+#EXTINF:-1 tvg-id="Disney Channel UK" tvg-name="Disney Channel +1 UK" tvg-logo="http://tugapt.com/picons/disneychanneluk.png" group-title="United Kingdom",Disney Channel +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1843
+#EXTINF:-1 tvg-id="Disney Channel UK" tvg-name="Disney Channel UK" tvg-logo="http://tugapt.com/picons/disneychanneluk.png" group-title="United Kingdom",Disney Channel UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1844
+#EXTINF:-1 tvg-id="Disney Junior UK" tvg-name="Disney Junior +1 UK" tvg-logo="http://tugapt.com/picons/disneyjunioruk.png" group-title="United Kingdom",Disney Junior +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1762
+#EXTINF:-1 tvg-id="Disney Junior UK" tvg-name="Disney Junior UK" tvg-logo="http://tugapt.com/picons/disneyjunioruk.png" group-title="United Kingdom",Disney Junior UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1845
+#EXTINF:-1 tvg-id="Drama UK" tvg-name="Drama UK" tvg-logo="http://tugapt.com/picons/dramauk.png" group-title="United Kingdom",Drama UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1863
+#EXTINF:-1 tvg-id="E! UK" tvg-name="E! +1 UK" tvg-logo="http://tugapt.com/picons/euk.png" group-title="United Kingdom",E! +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1907
+#EXTINF:-1 tvg-id="E! UK" tvg-name="E! UK" tvg-logo="http://tugapt.com/picons/euk.png" group-title="United Kingdom",E! UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1934
+#EXTINF:-1 tvg-id="E4 UK" tvg-name="E4 +1 UK" tvg-logo="http://tugapt.com/picons/e4uk.png" group-title="United Kingdom",E4 +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1965
+#EXTINF:-1 tvg-id="E4 UK" tvg-name="E4 UK" tvg-logo="http://tugapt.com/picons/e4uk.png" group-title="United Kingdom",E4 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1966
+#EXTINF:-1 tvg-id="Eden UK" tvg-name="Eden +1 UK" tvg-logo="http://tugapt.com/picons/edenuk.png" group-title="United Kingdom",Eden +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1946
+#EXTINF:-1 tvg-id="Eden UK" tvg-name="Eden UK" tvg-logo="http://tugapt.com/picons/edenuk.png" group-title="United Kingdom",Eden UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1935
+#EXTINF:-1 tvg-id="Eurosport 1 UK" tvg-name="Eurosport 1 HD UK" tvg-logo="http://tugapt.com/picons/eurosport1hduk.png" group-title="United Kingdom",Eurosport 1 HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1812
+#EXTINF:-1 tvg-id="Eurosport 2 UK" tvg-name="Eurosport 2 HD UK" tvg-logo="http://tugapt.com/picons/eurosport2hduk.png" group-title="United Kingdom",Eurosport 2 HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1811
+#EXTINF:-1 tvg-id="FOX News UK" tvg-name="FOX News UK" tvg-logo="http://tugapt.com/picons/foxnewsuk.png" group-title="United Kingdom",FOX News UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1760
+#EXTINF:-1 tvg-id="Film4 UK" tvg-name="Film4 UK" tvg-logo="http://tugapt.com/picons/film4uk.png" group-title="United Kingdom",Film4 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1830
+#EXTINF:-1 tvg-id="Food Network UK" tvg-name="Food Network +1 UK" tvg-logo="http://tugapt.com/picons/foodnetworkuk.png" group-title="United Kingdom",Food Network +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1941
+#EXTINF:-1 tvg-id="Food Network UK" tvg-name="Food Network UK" tvg-logo="http://tugapt.com/picons/foodnetworkuk.png" group-title="United Kingdom",Food Network UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1942
+#EXTINF:-1 tvg-id="" tvg-name="Free Sports HD UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/free-sports-uk.png?raw=true" group-title="United Kingdom VIP",Free Sports HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/50437
+#EXTINF:-1 tvg-id="GINX eSports TV UK" tvg-name="GINX eSports TV UK" tvg-logo="http://tugapt.com/picons/ginxesportstvuk.png" group-title="United Kingdom",GINX eSports TV UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1758
+#EXTINF:-1 tvg-id="GOLD UK" tvg-name="GOLD +1 UK" tvg-logo="http://tugapt.com/picons/golduk.png" group-title="United Kingdom",GOLD +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1947
+#EXTINF:-1 tvg-id="GOLD UK" tvg-name="GOLD UK" tvg-logo="http://tugapt.com/picons/golduk.png" group-title="United Kingdom",GOLD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1915
+#EXTINF:-1 tvg-id="H2 UK" tvg-name="H2 UK" tvg-logo="http://tugapt.com/picons/h2uk.png" group-title="United Kingdom",H2 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1871
+#EXTINF:-1 tvg-id="Hillsong UK" tvg-name="TBN UK" tvg-logo="http://tugapt.com/picons/hillsongchanneluk.png" group-title="United Kingdom",TBN UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1757
+#EXTINF:-1 tvg-id="History UK" tvg-name="History +1 UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/history-channel-plus-uk.png?raw=true" group-title="United Kingdom",History +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1866
+#EXTINF:-1 tvg-id="History UK" tvg-name="History UK" tvg-logo="http://tugapt.com/picons/historyuk.png" group-title="United Kingdom",History UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1867
+#EXTINF:-1 tvg-id="Home UK" tvg-name="HGTV +1 UK" tvg-logo="http://tugapt.com/picons/homeuk.png" group-title="United Kingdom",HGTV +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1869
+#EXTINF:-1 tvg-id="Home UK" tvg-name="Home UK" tvg-logo="http://tugapt.com/picons/homeuk.png" group-title="United Kingdom",Home UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1870
+#EXTINF:-1 tvg-id="Horror Channel UK" tvg-name="Horror Channel +1 UK" tvg-logo="http://tugapt.com/picons/horrorchanneluk.png" group-title="United Kingdom",Horror Channel +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1926
+#EXTINF:-1 tvg-id="Horror Channel UK" tvg-name="Horror Channel UK" tvg-logo="http://tugapt.com/picons/horrorchanneluk.png" group-title="United Kingdom",Horror Channel UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1825
+#EXTINF:-1 tvg-id="ITV Channel UK" tvg-name="ITV +1 UK" tvg-logo="http://tugapt.com/picons/itvplus1uk.png" group-title="United Kingdom",ITV +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1984
+#EXTINF:-1 tvg-id="ITV Channel UK" tvg-name="ITV 1 UK" tvg-logo="http://tugapt.com/picons/itvuk.png" group-title="United Kingdom",ITV 1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1985
+#EXTINF:-1 tvg-id="ITV2 UK" tvg-name="ITV2 +1 UK" tvg-logo="http://tugapt.com/picons/itv2plus1uk.png" group-title="United Kingdom",ITV2 +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1981
+#EXTINF:-1 tvg-id="ITV2 HD UK" tvg-name="ITV2 HD UK" tvg-logo="http://tugapt.com/picons/itv2hduk.png" group-title="United Kingdom",ITV2 HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1983
+#EXTINF:-1 tvg-id="ITV2 UK" tvg-name="ITV2 UK" tvg-logo="http://tugapt.com/picons/itv2uk.png" group-title="United Kingdom",ITV2 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1982
+#EXTINF:-1 tvg-id="ITV3 UK" tvg-name="ITV3 +1 UK" tvg-logo="http://tugapt.com/picons/itv3plus1uk.png" group-title="United Kingdom",ITV3 +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1978
+#EXTINF:-1 tvg-id="ITV3 UK" tvg-name="ITV3 UK" tvg-logo="http://tugapt.com/picons/itv3uk.png" group-title="United Kingdom",ITV3 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1979
+#EXTINF:-1 tvg-id="ITV4 UK" tvg-name="ITV4 +1 UK" tvg-logo="http://tugapt.com/picons/itv4plus1uk.png" group-title="United Kingdom",ITV4 +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1975
+#EXTINF:-1 tvg-id="ITV4 UK" tvg-name="ITV4 UK" tvg-logo="http://tugapt.com/picons/itv4uk.png" group-title="United Kingdom",ITV4 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1976
+#EXTINF:-1 tvg-id="ITVBe UK" tvg-name="ITVBe +1 UK" tvg-logo="http://tugapt.com/picons/itvbeplus1uk.png" group-title="United Kingdom",ITVBe +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1974
+#EXTINF:-1 tvg-id="Investigation Discovery UK" tvg-name="Investigation Discovery UK" tvg-logo="http://tugapt.com/picons/investigationdiscoveryuk.png" group-title="United Kingdom",Investigation Discovery UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1883
+#EXTINF:-1 tvg-id="KISS UK" tvg-name="KISS UK" tvg-logo="http://tugapt.com/picons/kissuk.png" group-title="United Kingdom",KISS UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1929
+#EXTINF:-1 tvg-id="Kix UK" tvg-name="Pop Max UK" tvg-logo="http://tugapt.com/picons/kixuk.png" group-title="United Kingdom",Pop Max UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1756
+#EXTINF:-1 tvg-id="Kerrang! TV UK" tvg-name="Kerrang! TV UK" tvg-logo="http://tugapt.com/picons/kerrangtvuk.png" group-title="United Kingdom",Kerrang! TV UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1928
+#EXTINF:-1 tvg-id="LFC TV UK" tvg-name="LFC TV UK" tvg-logo="http://tugapt.com/picons/lfctvuk.png" group-title="United Kingdom",LFC TV UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1802
+#EXTINF:-1 tvg-id="MTV UK" tvg-name="MTV +1 UK" tvg-logo="http://tugapt.com/picons/mtvuk.png" group-title="United Kingdom",MTV +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1834
+#EXTINF:-1 tvg-id="MTV 90s UK" tvg-name="Rap 2K Music TV UK" tvg-logo="http://tugapt.com/picons/mtv90suk.png" group-title="United Kingdom",Rap 2K Music TV UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1754
+#EXTINF:-1 tvg-id="MTV Base UK" tvg-name="MTV Base UK" tvg-logo="http://tugapt.com/picons/mtvbaseuk.png" group-title="United Kingdom",MTV Base UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1836
+#EXTINF:-1 tvg-id="MTV 90s UK" tvg-name="MTV Classic UK" tvg-logo="http://tugapt.com/picons/mtvclassicuk.png" group-title="United Kingdom",MTV Classic UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1837
+#EXTINF:-1 tvg-id="MTV Dance UK" tvg-name="MTV Dance UK" tvg-logo="http://tugapt.com/picons/mtvdanceuk.png" group-title="United Kingdom",MTV Dance UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1838
+#EXTINF:-1 tvg-id="MTV Hits UK" tvg-name="MTV Hits UK" tvg-logo="http://tugapt.com/picons/mtvhitsuk.png" group-title="United Kingdom",MTV Hits UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1839
+#EXTINF:-1 tvg-id="MTV Music UK" tvg-name="MTV Music UK" tvg-logo="http://tugapt.com/picons/mtvmusicuk.png" group-title="United Kingdom",MTV Music UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1840
+#EXTINF:-1 tvg-id="MTV UK" tvg-name="MTV UK" tvg-logo="http://tugapt.com/picons/mtvuk.png" group-title="United Kingdom",MTV UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1835
+#EXTINF:-1 tvg-id="MUTV UK" tvg-name="MU TV HD UK" tvg-logo="http://tugapt.com/picons/mutvhduk.png" group-title="United Kingdom",MU TV HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1797
+#EXTINF:-1 tvg-id="MUTV UK" tvg-name="MUTV HD UK" tvg-logo="http://tugapt.com/picons/mutvhduk.png" group-title="United Kingdom",MUTV HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1810
+#EXTINF:-1 tvg-id="MUTV UK" tvg-name="MUTV UK" tvg-logo="http://tugapt.com/picons/mutvuk.png" group-title="United Kingdom",MUTV UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1809
+#EXTINF:-1 tvg-id="More4 UK" tvg-name="More4 UK" tvg-logo="http://tugapt.com/picons/more4uk.png" group-title="United Kingdom",More4 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1930
+#EXTINF:-1 tvg-id="Motors TV UK" tvg-name="Motors TV HD UK" tvg-logo="http://tugapt.com/picons/motorstvuk.png" group-title="United Kingdom",Motors TV HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1891
+#EXTINF:-1 tvg-id="Movies 24 UK" tvg-name="Movies 24 UK" tvg-logo="http://tugapt.com/picons/movies24uk.png" group-title="United Kingdom",Movies 24 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1829
+#EXTINF:-1 tvg-id="Nat Geo Wild UK" tvg-name="Nat Geo Wild UK" tvg-logo="http://tugapt.com/picons/natgeowilduk.png" group-title="United Kingdom",Nat Geo Wild UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1889
+#EXTINF:-1 tvg-id="Nick Jr. UK" tvg-name="Nick Jr. +1 UK" tvg-logo="http://tugapt.com/picons/nickjruk.png" group-title="United Kingdom",Nick Jr. +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1849
+#EXTINF:-1 tvg-id="Nick Jr. Too UK" tvg-name="Nick Jr. Peppa UK" tvg-logo="http://tugapt.com/picons/nickjrpeppauk.png" group-title="United Kingdom",Nick Jr. Peppa UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1753
+#EXTINF:-1 tvg-id="Nick Jr. Too UK" tvg-name="Nick Jr. Too UK" tvg-logo="http://tugapt.com/picons/nickjrtoouk.png" group-title="United Kingdom",Nick Jr. Too UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1848
+#EXTINF:-1 tvg-id="Nick Jr. UK" tvg-name="Nick Jr. UK" tvg-logo="http://tugapt.com/picons/nickjruk.png" group-title="United Kingdom",Nick Jr. UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1850
+#EXTINF:-1 tvg-id="NickToons UK" tvg-name="NickToons UK" tvg-logo="http://tugapt.com/picons/nicktoonsuk.png" group-title="United Kingdom",NickToons UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1864
+#EXTINF:-1 tvg-id="Nickelodeon UK" tvg-name="Nickelodeon +1 UK" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="United Kingdom",Nickelodeon +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1858
+#EXTINF:-1 tvg-id="Nickelodeon UK" tvg-name="Nickelodeon UK" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="United Kingdom",Nickelodeon UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1859
+#EXTINF:-1 tvg-id="PBS America UK" tvg-name="PBS America UK" tvg-logo="http://tugapt.com/picons/pbsamericauk.png" group-title="United Kingdom",PBS America UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1791
+#EXTINF:-1 tvg-id="POP UK" tvg-name="POP +1 UK" tvg-logo="http://tugapt.com/picons/popuk.png" group-title="United Kingdom",POP +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1751
+#EXTINF:-1 tvg-id="POP UK" tvg-name="POP UK" tvg-logo="http://tugapt.com/picons/popuk.png" group-title="United Kingdom",POP UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1752
+#EXTINF:-1 tvg-id="Pick UK" tvg-name="Pick +1 UK" tvg-logo="http://tugapt.com/picons/pickuk.png" group-title="United Kingdom",Pick +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1951
+#EXTINF:-1 tvg-id="Pick UK" tvg-name="Pick UK" tvg-logo="http://tugapt.com/picons/pickuk.png" group-title="United Kingdom",Pick UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1853
+#EXTINF:-1 tvg-id="Premier Sports UK" tvg-name="Premier Sports HD UK" tvg-logo="http://tugapt.com/picons/premiersportshduk.png" group-title="United Kingdom",Premier Sports HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1807
+#EXTINF:-1 tvg-id="Premier Sports UK" tvg-name="Premier Sports 1 UK" tvg-logo="http://tugapt.com/picons/premiersportsuk.png" group-title="United Kingdom",Premier Sports 1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1808
+#EXTINF:-1 tvg-id="QUEST RED UK" tvg-name="QUEST RED +1 UK" tvg-logo="http://tugapt.com/picons/questreduk.png" group-title="United Kingdom",QUEST RED +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1749
+#EXTINF:-1 tvg-id="QUEST RED UK" tvg-name="QUEST RED UK" tvg-logo="http://tugapt.com/picons/questreduk.png" group-title="United Kingdom",QUEST RED UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1750
+#EXTINF:-1 tvg-id="QUEST UK" tvg-name="QUEST UK" tvg-logo="http://tugapt.com/picons/questuk.png" group-title="United Kingdom",QUEST UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1890
+#EXTINF:-1 tvg-id="RTE Jr UK" tvg-name="RTÉ Jr UK" tvg-logo="http://tugapt.com/picons/rtejruk.png" group-title="United Kingdom",RTÉ Jr UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1854
+#EXTINF:-1 tvg-id="RTE News Now UK" tvg-name="RTÉ News Now UK" tvg-logo="http://tugapt.com/picons/rtenewsnowuk.png" group-title="United Kingdom",RTÉ News Now UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1748
+#EXTINF:-1 tvg-id="RTE One UK" tvg-name="RTÉ One HD UK" tvg-logo="http://tugapt.com/picons/rteonehduk.png" group-title="United Kingdom",RTÉ One HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1933
+#EXTINF:-1 tvg-id="RTE One UK" tvg-name="RTÉ One UK" tvg-logo="http://tugapt.com/picons/rteoneuk.png" group-title="United Kingdom",RTÉ One UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1856
+#EXTINF:-1 tvg-id="RTE Two UK" tvg-name="RTÉ Two HD UK" tvg-logo="http://tugapt.com/picons/rtetwohduk.png" group-title="United Kingdom",RTÉ Two HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1932
+#EXTINF:-1 tvg-id="RTE Two UK" tvg-name="RTÉ Two UK" tvg-logo="http://tugapt.com/picons/rtetwouk.png" group-title="United Kingdom",RTÉ Two UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1855
+#EXTINF:-1 tvg-id="Racing UK" tvg-name="Racing UK" tvg-logo="http://tugapt.com/picons/racinguk.png" group-title="United Kingdom",Racing UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1800
+#EXTINF:-1 tvg-id="Real Lives UK" tvg-name="S Crime UK" tvg-logo="http://tugapt.com/picons/reallivesuk.png" group-title="United Kingdom",S Crime UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1952
+#EXTINF:-1 tvg-id="Real Lives UK" tvg-name="Real Lives UK" tvg-logo="http://tugapt.com/picons/reallivesuk.png" group-title="United Kingdom",Real Lives UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1939
+#EXTINF:-1 tvg-id="Really UK" tvg-name="Really UK" tvg-logo="http://tugapt.com/picons/reallyuk.png" group-title="United Kingdom",Really UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1940
+#EXTINF:-1 tvg-id="S4C UK" tvg-name="S4C UK" tvg-logo="http://tugapt.com/picons/s4cuk.png" group-title="United Kingdom",S4C UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1931
+#EXTINF:-1 tvg-id="Sky 1 UK" tvg-name="S 1 HD UK" tvg-logo="http://tugapt.com/picons/sky1hduk.png" group-title="United Kingdom",S 1 HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1920
+#EXTINF:-1 tvg-id="Sky 1 UK" tvg-name="S 1 UK" tvg-logo="http://tugapt.com/picons/sky1uk.png" group-title="United Kingdom",S 1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1919
+#EXTINF:-1 tvg-id="Sky 2 UK" tvg-name="S 2 UK" tvg-logo="http://tugapt.com/picons/sky2uk.png" group-title="United Kingdom",S 2 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1918
+#EXTINF:-1 tvg-id="Sky Arts UK" tvg-name="S Arts UK" tvg-logo="http://tugapt.com/picons/skyartsuk.png" group-title="United Kingdom",S Arts UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1917
+#EXTINF:-1 tvg-id="Sky Atlantic UK" tvg-name="S Atlantic +1 UK" tvg-logo="http://tugapt.com/picons/skyatlanticplus1uk.png" group-title="United Kingdom",S Atlantic +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1921
+#EXTINF:-1 tvg-id="Sky Atlantic UK" tvg-name="S Atlantic UK" tvg-logo="http://tugapt.com/picons/skyatlanticuk.png" group-title="United Kingdom",S Atlantic UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1922
+#EXTINF:-1 tvg-id="Sky Movies Action Adventure UK" tvg-name="S Cinema Action &amp; Adventure HD UK" tvg-logo="http://tugapt.com/picons/skycinemaactionandadventurehduk.png" group-title="United Kingdom",S Cinema Action &amp; Adventure HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/351
+#EXTINF:-1 tvg-id="Sky Movies Action Adventure UK" tvg-name="S Cinema Action & Adventure UK" tvg-logo="http://tugapt.com/picons/skycinemaactionandadventureuk.png" group-title="United Kingdom",S Cinema Action & Adventure UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/352
+#EXTINF:-1 tvg-id="Sky Movies Comedy UK" tvg-name="S Cinema Comedy HD UK" tvg-logo="http://tugapt.com/picons/skycinemacomedyhduk.png" group-title="United Kingdom",S Cinema Comedy HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/349
+#EXTINF:-1 tvg-id="Sky Movies Comedy UK" tvg-name="Sky Cinema Comedy UK" tvg-logo="http://tugapt.com/picons/skycinemacomedyuk.png" group-title="United Kingdom",Sky Cinema Comedy UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/350
+#EXTINF:-1 tvg-id="Sky Movies Crime Thriller UK" tvg-name="S Cinema Crime & Thriller UK" tvg-logo="http://tugapt.com/picons/skycinemacrimeandthrilleruk.png" group-title="United Kingdom",S Cinema Crime & Thriller UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/348
+#EXTINF:-1 tvg-id="Sky Movies Drama Romance UK" tvg-name="S Cinema Drama & Romance UK" tvg-logo="http://tugapt.com/picons/skycinemadramaandromanceuk.png" group-title="United Kingdom",S Cinema Drama & Romance UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/345
+#EXTINF:-1 tvg-id="Sky Movies Family UK" tvg-name="S Cinema Family HD UK" tvg-logo="http://tugapt.com/picons/skycinemafamilyhduk.png" group-title="United Kingdom",S Cinema Family HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/343
+#EXTINF:-1 tvg-id="Sky Movies Family UK" tvg-name="S Cinema Family UK" tvg-logo="http://tugapt.com/picons/skycinemafamilyuk.png" group-title="United Kingdom",S Cinema Family UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/344
+#EXTINF:-1 tvg-id="Sky Movies Greats UK" tvg-name="S Cinema Greats UK" tvg-logo="http://tugapt.com/picons/skycinemagreatsuk.png" group-title="United Kingdom",S Cinema Greats UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/342
+#EXTINF:-1 tvg-id="Sky Movies Premiere UK" tvg-name="S Cinema Premiere +1 UK" tvg-logo="http://tugapt.com/picons/skycinemapremiereplus1uk.png" group-title="United Kingdom",S Cinema Premiere +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1824
+#EXTINF:-1 tvg-id="Sky Movies Premiere UK" tvg-name="S Cinema Premiere UK" tvg-logo="http://tugapt.com/picons/skycinemapremiereuk.png" group-title="United Kingdom",S Cinema Premiere UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/341
+#EXTINF:-1 tvg-id="Sky Movies Sci-Fi Horror UK" tvg-name="S Cinema Sci-Fi &amp; Horror UK" tvg-logo="http://tugapt.com/picons/skycinemascifiandhorroruk.png" group-title="United Kingdom",S Cinema Sci-Fi &amp; Horror UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/340
+#EXTINF:-1 tvg-id="Sky Cinema Select UK" tvg-name="S Cinema Select UK" tvg-logo="http://tugapt.com/picons/skycinemaselectuk.png" group-title="United Kingdom",S Cinema Select UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/339
+#EXTINF:-1 tvg-id="Sky Living UK" tvg-name="S Living UK" tvg-logo="http://tugapt.com/picons/skylivinguk.png" group-title="United Kingdom",S Living UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1924
+#EXTINF:-1 tvg-id="Sky News UK" tvg-name="S News UK" tvg-logo="http://tugapt.com/picons/skynewsuk.png" group-title="United Kingdom",S News UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1925
+#EXTINF:-1 tvg-id="Sky Sports 3 UK" tvg-name="S Sports Action HD UK" tvg-logo="http://tugapt.com/picons/skysports3hduk.png" group-title="United Kingdom",S Sports Action HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/333
+#EXTINF:-1 tvg-id="Sky Sports 3 UK" tvg-name="S Sports Action UK" tvg-logo="http://tugapt.com/picons/skysports3uk.png" group-title="United Kingdom",S Sports Action UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/374
+#EXTINF:-1 tvg-id="Sky Sports Arena HD UK" tvg-name="S Sports Arena HD UK" tvg-logo="http://tugapt.com/picons/skysportsarenahduk.png" group-title="United Kingdom",S Sports Arena HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/6201
+#EXTINF:-1 tvg-id="Sky Sports Arena HD UK" tvg-name="S Sports Arena UK" tvg-logo="http://tugapt.com/picons/skysportsarenauk.png" group-title="United Kingdom",S Sports Arena UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/6200
+#EXTINF:-1 tvg-id="Sky Sports 2 UK" tvg-name="S Sports Cricket HD UK" tvg-logo="http://tugapt.com/picons/skysports2hduk.png" group-title="United Kingdom",S Sports Cricket HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/334
+#EXTINF:-1 tvg-id="Sky Sports 2 UK" tvg-name="S Sports Cricket UK" tvg-logo="http://tugapt.com/picons/skysports2uk.png" group-title="United Kingdom",S Sports Cricket UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/375
+#EXTINF:-1 tvg-id="Sky Sports F1 UK" tvg-name="S Sports F1 HD UK" tvg-logo="http://tugapt.com/picons/skysportsf1hduk.png" group-title="United Kingdom",S Sports F1 HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/371
+#EXTINF:-1 tvg-id="Sky Sports F1 UK" tvg-name="S Sports F1 UK" tvg-logo="http://tugapt.com/picons/skysportsf1uk.png" group-title="United Kingdom",S Sports F1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/337
+#EXTINF:-1 tvg-id="Sky Sports Football HD UK" tvg-name="S Sports Football HD UK" tvg-logo="http://tugapt.com/picons/skysportsfootballhduk.png" group-title="United Kingdom",S Sports Football HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/6204
+#EXTINF:-1 tvg-id="Sky Sports Football HD UK" tvg-name="S Sports Football UK" tvg-logo="http://tugapt.com/picons/skysportsfootballuk.png" group-title="United Kingdom",S Sports Football UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/6203
+#EXTINF:-1 tvg-id="Sky Sports 4 UK" tvg-name="Sky Sports Golf HD UK" tvg-logo="http://tugapt.com/picons/skysports4hduk.png" group-title="United Kingdom",Sky Sports Golf HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/332
+#EXTINF:-1 tvg-id="Sky Sports 4 UK" tvg-name="S Sports Golf UK" tvg-logo="http://tugapt.com/picons/skysports4uk.png" group-title="United Kingdom",S Sports Golf UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/373
+#EXTINF:-1 tvg-id="Sky Sports 1 UK" tvg-name="S Sports Main Event HD UK" tvg-logo="http://tugapt.com/picons/skysports1hduk.png" group-title="United Kingdom",S Sports Main Event HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/335
+#EXTINF:-1 tvg-id="Sky Sports 1 UK" tvg-name="S Sports Main Event UK" tvg-logo="http://tugapt.com/picons/skysports1uk.png" group-title="United Kingdom",S Sports Main Event UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/376
+#EXTINF:-1 tvg-id="Sky Sports Mix HD UK" tvg-name="S Sports Mix HD UK" tvg-logo="http://tugapt.com/picons/skysportsmixhduk.png" group-title="United Kingdom",S Sports Mix HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1821
+#EXTINF:-1 tvg-id="Sky Sports News UK" tvg-name="Sky Sports News HQ UK" tvg-logo="http://tugapt.com/picons/skysportsnewshquk.png" group-title="United Kingdom",Sky Sports News HQ UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/336
+#EXTINF:-1 tvg-id="Sky Sports 5 UK" tvg-name="S Sports Premier League HD UK" tvg-logo="http://tugapt.com/picons/skysports5hduk.png" group-title="United Kingdom",S Sports Premier League HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/331
+#EXTINF:-1 tvg-id="Sky Sports 5 UK" tvg-name="S Sports Premier League UK" tvg-logo="http://tugapt.com/picons/skysports5uk.png" group-title="United Kingdom",S Sports Premier League UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/372
+#EXTINF:-1 tvg-id="Sony UK" tvg-name="GREAT! tv UK" tvg-logo="http://tugapt.com/picons/sonyuk.png" group-title="United Kingdom",GREAT! tv UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1943
+#EXTINF:-1 tvg-id="Starz TV UK" tvg-name="Starz TV UK" tvg-logo="http://tugapt.com/picons/starztvuk.png" group-title="United Kingdom",Starz TV UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1746
+#EXTINF:-1 tvg-id="Syfy UK" tvg-name="Syfy +1 UK" tvg-logo="http://tugapt.com/picons/syfyuk.png" group-title="United Kingdom",Syfy +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1899
+#EXTINF:-1 tvg-id="Syfy UK" tvg-name="Syfy UK" tvg-logo="http://tugapt.com/picons/syfyuk.png" group-title="United Kingdom",Syfy UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1900
+#EXTINF:-1 tvg-id="TCM UK" tvg-name="TCM +1 UK" tvg-logo="http://tugapt.com/picons/tcmuk.png" group-title="United Kingdom",TCM +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1954
+#EXTINF:-1 tvg-id="TCM UK" tvg-name="TCM UK" tvg-logo="http://tugapt.com/picons/tcmuk.png" group-title="United Kingdom",TCM UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1955
+#EXTINF:-1 tvg-id="TG4 UK" tvg-name="TG4 UK" tvg-logo="http://tugapt.com/picons/tg4uk.png" group-title="United Kingdom",TG4 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1793
+#EXTINF:-1 tvg-id="TLC UK" tvg-name="TLC +1 UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/tlc-plus-uk.png?raw=true" group-title="United Kingdom",TLC +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1902
+#EXTINF:-1 tvg-id="TLC UK" tvg-name="TLC UK" tvg-logo="http://tugapt.com/picons/tlcuk.png" group-title="United Kingdom",TLC UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1903
+#EXTINF:-1 tvg-id="" tvg-name="Tom And Jerry HD UK" tvg-logo="https://logodix.com/logo/330403.png" group-title="United Kingdom",Tom And Jerry HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/10560
+#EXTINF:-1 tvg-id="TV3 UK" tvg-name="TV3 +1 UK" tvg-logo="http://tugapt.com/picons/tv3plus1uk.png" group-title="United Kingdom",TV3 +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1957
+#EXTINF:-1 tvg-id="TV3 UK" tvg-name="TV3 UK" tvg-logo="http://tugapt.com/picons/tv3uk.png" group-title="United Kingdom",TV3 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1958
+#EXTINF:-1 tvg-id="The Box UK" tvg-name="The Box UK" tvg-logo="http://tugapt.com/picons/theboxuk.png" group-title="United Kingdom",The Box UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1745
+#EXTINF:-1 tvg-id="Tiny Pop UK" tvg-name="Tiny Pop +1 UK" tvg-logo="http://tugapt.com/picons/tinypopuk.png" group-title="United Kingdom",Tiny Pop +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1860
+#EXTINF:-1 tvg-id="Tiny Pop UK" tvg-name="Tiny Pop UK" tvg-logo="http://tugapt.com/picons/tinypopuk.png" group-title="United Kingdom",Tiny Pop UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1861
+#EXTINF:-1 tvg-id="UTV UK" tvg-name="UTV HD UK" tvg-logo="http://tugapt.com/picons/utvuk.png" group-title="United Kingdom",UTV HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1959
+#EXTINF:-1 tvg-id="VH1 UK" tvg-name="VH1 UK" tvg-logo="http://tugapt.com/picons/vh1uk.png" group-title="United Kingdom",VH1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1841
+#EXTINF:-1 tvg-id="" tvg-name="Viceland UK" tvg-logo="http://tugapt.com/picons/vicelanduk.png" group-title="United Kingdom",Viceland UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1953
+#EXTINF:-1 tvg-id="W UK" tvg-name="W +1 UK" tvg-logo="http://tugapt.com/picons/wuk.png" group-title="United Kingdom",W +1 UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1904
+#EXTINF:-1 tvg-id="W UK" tvg-name="W UK" tvg-logo="http://tugapt.com/picons/wuk.png" group-title="United Kingdom",W UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1905
+#EXTINF:-1 tvg-id="YESTERDAY UK" tvg-name="YESTERDAY UK" tvg-logo="http://tugapt.com/picons/yesterdayuk.png" group-title="United Kingdom",YESTERDAY UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1906
+#EXTINF:-1 tvg-id="tru TV UK" tvg-name="tru TV UK" tvg-logo="http://tugapt.com/picons/trutvuk.png" group-title="United Kingdom",tru TV UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/1956
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Media One UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-one-uk.png?raw=true" group-title="United Kingdom",Virgin Media One UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/75511
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Media Two UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-two-uk.png?raw=true" group-title="United Kingdom",Virgin Media Two UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/75512
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Media Three UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-three-uk.png?raw=true" group-title="United Kingdom",Virgin Media Three UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/75514
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV FHD UK" tvg-logo="https://banner2.cleanpng.com/20180824/fph/kisspng-red-bull-tv-television-film-streaming-media-red-bull-tv-primavera-sound-5b805de6d852c0.5594931315351393028861.jpg" group-title="United Kingdom",Red Bull TV FHD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/75515
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV UK" tvg-logo="http://tugapt.com/picons/ducktvnl.png" group-title="United Kingdom",Duck TV UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/75516
+#EXTINF:-1 tvg-id="" tvg-name="Sky Witness HD UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-witness-uk.png?raw=true" group-title="United Kingdom",Sky Witness HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/75517
+#EXTINF:-1 tvg-id="" tvg-name="British Muslim UK" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5485.1445606492.png" group-title="United Kingdom",British Muslim UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/75518
+#EXTINF:-1 tvg-id="" tvg-name="London Live UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/london-live-uk.png?raw=true" group-title="United Kingdom",London Live UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/75519
+#EXTINF:-1 tvg-id="" tvg-name="S Cinema Superhero HD UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-cinema-superheroes-hz-uk.png?raw=true" group-title="United Kingdom",S Cinema Superhero HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/75520
+#EXTINF:-1 tvg-id="" tvg-name="S Cinema Women FHD UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-cinema-superheroes-hz-uk.png?raw=true" group-title="United Kingdom",S Cinema Women FHD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/75521
+#EXTINF:-1 tvg-id="" tvg-name="Horse &amp; Country UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/horse-and-country-uk.png?raw=true" group-title="United Kingdom",Horse &amp; Country UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/75522
+#EXTINF:-1 tvg-id="" tvg-name="Setanta Sports UK" tvg-logo="https://cdn.imgbin.com/11/9/23/imgbin-setanta-sports-logo-television-brand-geography-history-armenian-U8vxbrYFGSShKhnRHaCP7Z607.jpg" group-title="United Kingdom",Setanta Sports UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/75523
+#EXTINF:-1 tvg-id="" tvg-name="Now 80s UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/now-80s-uk.png?raw=true" group-title="United Kingdom",Now 80s UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/78219
+#EXTINF:-1 tvg-id="" tvg-name="Sky Comedy HD UK" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sky-comedy-de.png" group-title="United Kingdom",Sky Comedy HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/78291
+#EXTINF:-1 tvg-id="" tvg-name="BBC LIFESTYLE UK" tvg-logo="https://thumbnail.imgbin.com/25/12/19/imgbin-bbc-lifestyle-bbc-entertainment-television-channel-bbc-hausa-a4sWKSBPEF0aFVQh0jtVSP6cA_t.jpg" group-title="United Kingdom",BBC LIFESTYLE UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/79820
+#EXTINF:-1 tvg-id="" tvg-name="Clubland VIP UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/clubland-uk.png?raw=true" group-title="United Kingdom VIP",Clubland VIP UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/80957
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature FHD VIP UK" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/love-nature-white-uk.png" group-title="United Kingdom VIP",Love Nature FHD VIP UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/80977
+#EXTINF:-1 tvg-id="" tvg-name="Club MTV UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/mtv-club-uk.png?raw=true" group-title="United Kingdom",Club MTV UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/82755
+#EXTINF:-1 tvg-id="" tvg-name="Viceland HD US" tvg-logo="" group-title="United States",Viceland HD US
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/82833
+#EXTINF:-1 tvg-id="Outside Television US" tvg-name="Outside TV HD US" tvg-logo="" group-title="United States",Outside TV HD US
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/83214
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network FHD UK" tvg-logo="http://tugapt.com/picons/fightnetworkpt.png" group-title="United Kingdom",Fight Network FHD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/83532
+#EXTINF:-1 tvg-id="" tvg-name="Revelation UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/revelation-tv-uk.png?raw=true" group-title="United Kingdom",Revelation UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/89940
+#EXTINF:-1 tvg-id="" tvg-name="Sky NATURE HD UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-nature-uk.png?raw=true" group-title="United Kingdom",Sky NATURE HD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/89975
+#EXTINF:-1 tvg-id="" tvg-name="Sky DOCUMENTARIES FHD UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-documentaries-uk.png?raw=true" group-title="United Kingdom",Sky DOCUMENTARIES FHD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/89976
+#EXTINF:-1 tvg-id="" tvg-name="MTA 2 FHD UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Mta2_al_taeni.jpg" group-title="United Kingdom",MTA 2 FHD UK
+http://tellyflix.xyz:8080/y9W8VzKC3N/dlHmWAEbfc/90059
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Cricket HD AF" tvg-logo="" group-title="Africa",SuperSport Cricket HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111464
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Blitz HD AF" tvg-logo="" group-title="Africa",SuperSport Blitz HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111463
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport PSL HD AF" tvg-logo="" group-title="Africa",SuperSport PSL HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111462
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport La Liga HD AF" tvg-logo="" group-title="Africa",SuperSport La Liga HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111461
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Premier League HD AF" tvg-logo="" group-title="Africa",SuperSport Premier League HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111460
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Football HD AF" tvg-logo="" group-title="Africa",SuperSport Football HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111459
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Grandstand HD AF" tvg-logo="" group-title="Africa",SuperSport Grandstand HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111458
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Motorsport HD AF" tvg-logo="" group-title="Africa",SuperSport Motorsport HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111457
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Rugby HD AF" tvg-logo="" group-title="Africa",SuperSport Rugby HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111456
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Action HD AF" tvg-logo="" group-title="Africa",SuperSport Action HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111455
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Golf HD AF" tvg-logo="" group-title="Africa",SuperSport Golf HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111454
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport MaXimo 1 HD AF" tvg-logo="" group-title="Africa",SuperSport MaXimo 1 HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111453
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Tennis HD AF" tvg-logo="" group-title="Africa",SuperSport Tennis HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111452
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Play HD AF" tvg-logo="" group-title="Africa",SuperSport Play HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111451
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 1 HD AF" tvg-logo="" group-title="Africa",SuperSport Variety 1 HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111450
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 2 HD AF" tvg-logo="" group-title="Africa",SuperSport Variety 2 HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111449
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 3 HD AF" tvg-logo="" group-title="Africa",SuperSport Variety 3 HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111448
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 4 HD AF" tvg-logo="" group-title="Africa",SuperSport Variety 4 HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111447
+#EXTINF:-1 tvg-id="" tvg-name="Racing 240 AF" tvg-logo="" group-title="Africa",Racing 240 AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111446
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport MaXimo 2 Liga Inglesa AF" tvg-logo="" group-title="Africa",SuperSport MaXimo 2 Liga Inglesa AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111445
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 HD AF" tvg-logo="" group-title="Africa",ESPN 1 HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111444
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD AF" tvg-logo="" group-title="Africa",ESPN 2 HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111443
+#EXTINF:-1 tvg-id="" tvg-name="Ginx eSports TV HD AF" tvg-logo="" group-title="Africa",Ginx eSports TV HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111442
+#EXTINF:-1 tvg-id="" tvg-name="WWE Channel HD AF" tvg-logo="" group-title="Africa",WWE Channel HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111441
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 1 HD AF" tvg-logo="" group-title="Africa",SuperSport OTT 1 HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111440
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 2 HD AF" tvg-logo="" group-title="Africa",SuperSport OTT 2 HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111439
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 3 HD AF" tvg-logo="" group-title="Africa",SuperSport OTT 3 HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111438
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 4 HD AF" tvg-logo="" group-title="Africa",SuperSport OTT 4 HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111437
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 5 HD AF" tvg-logo="" group-title="Africa",SuperSport OTT 5 HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111436
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 6 HD AF" tvg-logo="" group-title="Africa",SuperSport OTT 6 HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111435
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 7 HD AF" tvg-logo="" group-title="Africa",SuperSport OTT 7 HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111434
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 8 HD AF" tvg-logo="" group-title="Africa",SuperSport OTT 8 HD AF
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/111433
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 FHD MY" tvg-logo="" group-title="Malaysia",ASTRO SUPERSPORTS 2 FHD MY
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/18622
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 3 FHD MY" tvg-logo="" group-title="Malaysia",ASTRO SUPERSPORTS 3 FHD MY
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/18621
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 FHD MY" tvg-logo="" group-title="Malaysia",ASTRO SUPERSPORTS 4 FHD MY
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/18620
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 1 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports English 1 QA
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/98100
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 1 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports English 1 HD QA
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/98099
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 1 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports English 1 FHD QA
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/98098
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 2 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports English 2 QA
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/98097
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 2 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports English 2 HD QA
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/98096
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 2 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports English 2 FHD QA
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/98095
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 3 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports English 3 QA
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/98094
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 3 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports English 3 HD QA
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/98093
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 3 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports English 3 FHD QA
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/98092
+#EXTINF:-1 tvg-id="Racing UK" tvg-name="Racing UK" tvg-logo="http://tugapt.com/picons/racinguk.png" group-title="United Kingdom",Racing UK
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/1800
+#EXTINF:-1 tvg-id="SmithsonianChannelEast.us" tvg-name="Smithsonian Channel US" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/smithsonian-channel-uk.png?raw=true" group-title="United States",Smithsonian Channel US
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/41479
+#EXTINF:-1 tvg-id="SmithsonianChannelEast.us" tvg-name="SMITHSONIAN CA" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/smithsonian-channel-uk.png?raw=true" group-title="Canada",SMITHSONIAN CA
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/45412
+#EXTINF:-1 tvg-id="SmithsonianChannelEast.us" tvg-name="Smithsonian Channel (East) HD VIP US" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/smithsonian-channel-uk.png?raw=true" group-title="United States VIP",Smithsonian Channel (East) HD VIP US
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/80192
+EXTINF:-1 tvg-id="SmithsonianChannelEast.us" tvg-name="Smithsonian Channel (West) HD VIP US" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/smithsonian-channel-uk.png?raw=true" group-title="United States VIP",Smithsonian Channel (West) HD VIP US
+http://tellyflix.xyz:8080/Atieng58EC/9ockQxirKq/80193
